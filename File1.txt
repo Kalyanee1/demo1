@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 my first file
 12345 
+=======
+my first file 
+tried fetch
+>>>>>>> origin/master
